@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+torch
+matplotlib
+jupyter
+pyspark  # optionnel
